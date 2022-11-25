@@ -1,0 +1,16 @@
+.timer{
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.digits{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 2rem;
+	color: black;
+}
+
+.mili-sec{
+	color: #e42a2a;
+}
